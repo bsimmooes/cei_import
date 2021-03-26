@@ -1,5 +1,5 @@
 # cei-b3-import
-## Script to generate the stocks' descriptions to use in "Declaração de Imposto de Renda Pessoa Física (DIRPF)" through CEI's reports. Help to fill the "Fica de Bens e Direitos".
+## Script to generate the stocks' descriptions to use in "Declaração de Imposto de Renda Pessoa Física (DIRPF)" through CEI's reports. Help to fill the "Ficha de Bens e Direitos".
  
 [BR]
 Declaração de Imposto de Renda Pessoa Física (DIRPF) é basicamente uma obrigação anual do Brasil que cruza as informações referente, "origem das rendas X bens e direitos X impostos pago no ano calendário", a qual realiza uma espécie de ajuste entre os impostos pagos e os devidos, resultando em um "valor real justo", conforme as normas tributárias do governo.
