@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7f5b0fa-a161-4dfc-bdac-cb1f54ea0373" name="Default Changelist" comment="" />
+    <list default="true" id="b7f5b0fa-a161-4dfc-bdac-cb1f54ea0373" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relatorio_12-2020.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/relatorio_12-2020.xlsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cei-b3-import" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1p77MJFOdubzqKrKLJMhvERhrHl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -148,6 +152,8 @@
       <workItem from="1616779289631" duration="1774000" />
       <workItem from="1616781106641" duration="469000" />
       <workItem from="1616784844505" duration="1401000" />
+      <workItem from="1616786664201" duration="308000" />
+      <workItem from="1616787004550" duration="356000" />
     </task>
     <servers />
   </component>
@@ -186,6 +192,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cei_import$cei_import.coverage" NAME="cei_import Coverage Results" MODIFIED="1614613349633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cei_import$main_tests.coverage" NAME="main_tests Coverage Results" MODIFIED="1616781186656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cei_import$main_tests.coverage" NAME="main_tests Coverage Results" MODIFIED="1616787054573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
