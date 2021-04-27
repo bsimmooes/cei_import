@@ -1,4 +1,4 @@
-1) Gerar arquivo no Portal do CEI, em Excel;
+1) Gerar arquivo no Portal do CEI, em Excel ("Extrato BM&F BOVESPA");
 
 ![image](https://user-images.githubusercontent.com/51026420/112696071-f3e96d80-8e63-11eb-8222-53a864c5dbe4.png)
 
