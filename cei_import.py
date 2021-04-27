@@ -1,4 +1,16 @@
 class ImportCei:
+    
+    """Script to generate the stocks' descriptions to use in "Declaração de Imposto de Renda Pessoa Física (DIRPF)" through CEI's reports.
+    Help to fill the "Fica de Bens e Direitos.
+    
+    This class receive one specific file, that have some user informations about your stocks wallet.
+    The raw file pass for some slices, rows transformations, joins to clean it.
+    One step (function) we use a webscrapping method to rename some rows for a single pattern.
+    Once a time whether file are cleanned and reclassified, the class can develop a new arquive to apply the objective.
+    
+    Attributes:
+        archive: a path about the raw file to transform (specific file, downloaded at https://cei.b3.com.br/CEI_Responsivo/extrato-bmfbovespa.aspx)
+    """
 
     def __init__(self, archive):
         """directory "str" from archive(xsl)"""
