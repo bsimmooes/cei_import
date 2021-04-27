@@ -209,15 +209,3 @@ class ImportCei:
         df = self.__irpf_description()
         file_title = 'historico_irpf_' + self.__search_date() + '.csv'
         return df.to_csv(file_title, encoding='latin-1', index=False)
-
-    """
-    unaccomplished function
-    def __check_ticker_F(ticker_column):
-        new_ticker_column = []
-        for i in ticker_column:
-            if i.replace(" ", "").endswith('F'):
-                new_ticker_column.append(i.replace(" ", "")[:-1])
-            else:
-                new_ticker_column.append(i.replace(" ", ""))
-        return new_ticker_column
-    """
